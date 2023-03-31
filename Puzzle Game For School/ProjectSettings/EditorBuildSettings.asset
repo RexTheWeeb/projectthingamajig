@@ -6,6 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Room.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Puzzle1.unity
+    guid: 7c8cbd4060b3f1344b55ba7b33e56810
+  - enabled: 1
+    path: Assets/Scenes/Level 1 Complete 1.unity
+    guid: 643a51e36ba1b6041b2676202210aa05
+  - enabled: 1
+    path: Assets/Scenes/Puzzle2.unity
+    guid: 5ee6384774de92f40bf04525605f2626
+  - enabled: 1
+    path: Assets/Scenes/Level 2 Complete.unity
+    guid: 1df465b18c6c04945b487d8a8c989efc
+  - enabled: 1
+    path: Assets/Scenes/Puzzle3 Part 2.unity
+    guid: 077cc1b40d582eb4091c58443b205171
+  - enabled: 1
+    path: Assets/Scenes/Puzzle3 Part 1.unity
+    guid: 16ecf9f39c37e4742ba254681f4dc509
+  - enabled: 1
+    path: Assets/Scenes/Level 3 Complete.unity
+    guid: bf78bb15e11bbd24ab7c44c42dc2d43d
+  - enabled: 1
+    path: Assets/Scenes/FinishingRoom.unity
+    guid: 6e5584796e33d9a4e9fad66f68dbcb16
   m_configObjects: {}
